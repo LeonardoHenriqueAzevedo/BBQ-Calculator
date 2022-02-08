@@ -19,3 +19,6 @@ A barbecue calculator that does the account to know how much you will need to ma
 - **JS**
 ## Back End
 - **JS**
+
+# 📝 License
+This project have the license of the [MIT](./LICENSE).
