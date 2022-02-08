@@ -12,3 +12,10 @@ A barbecue calculator that does the account to know how much you will need to ma
 3. Each person in a BBQ drinks average 1L of soda/water (if the event duration is more than 6 hours, the average will be 1.5L soda/water for person);  
 4. Kids eats and drinks half of all values shown (don't drink beer)
 
+# 💻 Technologies
+## Front End
+- **HTML**
+- **CSS**
+- **JS**
+## Back End
+- **JS**
