@@ -1,4 +1,5 @@
 # BBQ-Calculator
+# ✔️ Project
 A barbecue calculator that does the account to know how much you will need to make a BBQ based on the rules below, the calculator is made in Javascript
 ## Rules
 1. Each person in a BBQ eats average 400g of meat (if the event duration is more than 6 hours, the average will be 650g meat for person); 
