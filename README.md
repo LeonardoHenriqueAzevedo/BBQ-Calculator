@@ -3,7 +3,7 @@ A barbecue calculator that does the account to know how much you will need to ma
 
 ## Interface 
 <h1 align="center">
-    <img alt="BBQ_Calculator_GIF" title="BBQ_Calculator_Interface_GIF" src="github/BBQ_Calculator.gif">
+    <img alt="BBQ_Calculator_GIF" title="BBQ_Calculator_Interface_GIF" src="github/BBQ_calculator.gif">
 </h1>
 
 ## Rules
